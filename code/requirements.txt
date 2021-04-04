@@ -1,0 +1,8 @@
+pandas
+pandas-datareader
+scikit-learn
+numpy
+yfinance
+bs4
+requests
+seaborn
